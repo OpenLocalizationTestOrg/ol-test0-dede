@@ -1,11 +1,65 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 4
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [e2e\calleeMd1.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/945c2c3859069522c48b7db6f4ec84506b81bada/e2e/calleeMd1.md) | HandedOffSuccess | [Details](#5e088b26c39d5122ca1bca0beea9693c115bd3ab1)
+ [e2e\calleeMd2.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/945c2c3859069522c48b7db6f4ec84506b81bada/e2e/calleeMd2.md) | HandedOffSuccess | [Details](#491a4c32e44c730e96b6961c331fed9b458c990c2)
+ [e2e\callerMd1.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/945c2c3859069522c48b7db6f4ec84506b81bada/e2e/callerMd1.md) | HandedOffSuccess | [Details](#3e3ddb9901ceb3211915332beec2a88b046ad5b33)
+ [e2e\callerMd2.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/945c2c3859069522c48b7db6f4ec84506b81bada/e2e/callerMd2.md) | HandedOffSuccess | [Details](#88a9c3255fc77df58595f9eeb2a1623eb8ffe0c34)
 
 ## Item Details
+##### <a name='5e088b26c39d5122ca1bca0beea9693c115bd3ab1'></a> Source: [e2e\calleeMd1.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/945c2c3859069522c48b7db6f4ec84506b81bada/e2e/calleeMd1.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [calleeMd1.e8f5ecec2b522eb147a4ff0ca19ca72e17f2186d.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/c0b0bbdbc5b6c13a1a4e93de32745cf70e538d2a/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/yuwzho/ht/calleeMd1.e8f5ecec2b522eb147a4ff0ca19ca72e17f2186d.de-de.xlf)
+* Handoff Datetime: 2016-09-07 09:43:34
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='491a4c32e44c730e96b6961c331fed9b458c990c2'></a> Source: [e2e\calleeMd2.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/945c2c3859069522c48b7db6f4ec84506b81bada/e2e/calleeMd2.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [calleeMd2.63b76063f058ecc63ff1dda71ea2a67db72ae6e1.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/c0b0bbdbc5b6c13a1a4e93de32745cf70e538d2a/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/yuwzho/ht/calleeMd2.63b76063f058ecc63ff1dda71ea2a67db72ae6e1.de-de.xlf)
+* Handoff Datetime: 2016-09-07 09:43:34
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='3e3ddb9901ceb3211915332beec2a88b046ad5b33'></a> Source: [e2e\callerMd1.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/945c2c3859069522c48b7db6f4ec84506b81bada/e2e/callerMd1.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [callerMd1.a3bf9f4e7fa2750ec06df0b78a76ae5cafa0e0fd.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/c0b0bbdbc5b6c13a1a4e93de32745cf70e538d2a/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/yuwzho/ht/callerMd1.a3bf9f4e7fa2750ec06df0b78a76ae5cafa0e0fd.de-de.xlf)
+* Handoff Datetime: 2016-09-07 09:43:34
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='88a9c3255fc77df58595f9eeb2a1623eb8ffe0c34'></a> Source: [e2e\callerMd2.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/945c2c3859069522c48b7db6f4ec84506b81bada/e2e/callerMd2.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [callerMd2.c7d976edeb9cd5406eae7aba4c05d6d92e81ae95.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/c0b0bbdbc5b6c13a1a4e93de32745cf70e538d2a/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/yuwzho/ht/callerMd2.c7d976edeb9cd5406eae7aba4c05d6d92e81ae95.de-de.xlf)
+* Handoff Datetime: 2016-09-07 09:43:34
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
