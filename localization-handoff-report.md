@@ -1,27 +1,37 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 2
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\7827cd75-5671-4ec7-a4ad-afa48cad22e8.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/73feba02d2757c38f4b69a8c4bdc9b7802a6f732/e2e/7827cd75-5671-4ec7-a4ad-afa48cad22e8.md) | HandedOffSuccess | [Details](#6b627cc3e09b2bcd2c594e16c34eb8ffd33bf3861)
+ [e2e\2496fb7b-a611-4deb-8e65-bf5d28b02263.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/c6c82e5ec259c69c12f71690098e2291695d9d05/e2e/2496fb7b-a611-4deb-8e65-bf5d28b02263.md) | HandedOffSuccess | [Details](#d2b69d682654edf50a7ecb587012c3bb7fbfa7e41)
+ [e2e\f650112a-9a4c-44b3-be84-eaccc0ff8036.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/c6c82e5ec259c69c12f71690098e2291695d9d05/e2e/f650112a-9a4c-44b3-be84-eaccc0ff8036.md) | HandedOffSuccess | [Details](#d2b69d682654edf50a7ecb587012c3bb7fbfa7e43)
 
 ## Item Details
-##### <a name='6b627cc3e09b2bcd2c594e16c34eb8ffd33bf3861'></a> Source: [e2e\7827cd75-5671-4ec7-a4ad-afa48cad22e8.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/73feba02d2757c38f4b69a8c4bdc9b7802a6f732/e2e/7827cd75-5671-4ec7-a4ad-afa48cad22e8.md)
+##### <a name='d2b69d682654edf50a7ecb587012c3bb7fbfa7e41'></a> Source: [e2e\2496fb7b-a611-4deb-8e65-bf5d28b02263.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/c6c82e5ec259c69c12f71690098e2291695d9d05/e2e/2496fb7b-a611-4deb-8e65-bf5d28b02263.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [7827cd75-5671-4ec7-a4ad-afa48cad22e8.218827cf8a17b11536fe4f5ed2533fd27b1f7cac.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/5d6c0a4d21fd65af72abbc15ad180afc5219d2e4/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/yuwzho/ht/7827cd75-5671-4ec7-a4ad-afa48cad22e8.218827cf8a17b11536fe4f5ed2533fd27b1f7cac.de-de.xlf)
-* Handoff Datetime: 2016-09-09 12:27:05
+* Handoff File: [2496fb7b-a611-4deb-8e65-bf5d28b02263.3be72aec14d2c78f3e915b5f2600b0c80748b4c5.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/d16fdbf6771278641f340bc97b6698a532f0715f/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/yuwzho/ht/2496fb7b-a611-4deb-8e65-bf5d28b02263.3be72aec14d2c78f3e915b5f2600b0c80748b4c5.de-de.xlf)
+* Handoff Datetime: 2016-09-09 12:29:11
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [e2e\7827cd75-5671-4ec7-a4ad-afa48cad22e8.md](https://github.com/OpenLocalizationTestOrg/ol-test0-dede/blob/7e0467ed04b8b2d8269a075d72eeb44385c2d92a/e2e/7827cd75-5671-4ec7-a4ad-afa48cad22e8.md)
-* Current Handback File: [7827cd75-5671-4ec7-a4ad-afa48cad22e8.218827cf8a17b11536fe4f5ed2533fd27b1f7cac.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/d10531b648a0e720fc4dca49139e30742a0af731/ol-handback/OpenLocalizationTestOrg/ol-test0-dede/yuwzho/ht/7827cd75-5671-4ec7-a4ad-afa48cad22e8.218827cf8a17b11536fe4f5ed2533fd27b1f7cac.de-de.xlf)
-* Current Handback Datetime: 2016-09-09 12:26:15
+* [Back to Top](#report-top)
+
+##### <a name='d2b69d682654edf50a7ecb587012c3bb7fbfa7e43'></a> Source: [e2e\f650112a-9a4c-44b3-be84-eaccc0ff8036.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/c6c82e5ec259c69c12f71690098e2291695d9d05/e2e/f650112a-9a4c-44b3-be84-eaccc0ff8036.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [2496fb7b-a611-4deb-8e65-bf5d28b02263.3be72aec14d2c78f3e915b5f2600b0c80748b4c5.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/d16fdbf6771278641f340bc97b6698a532f0715f/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/yuwzho/ht/2496fb7b-a611-4deb-8e65-bf5d28b02263.3be72aec14d2c78f3e915b5f2600b0c80748b4c5.de-de.xlf)
+* Handoff Datetime: 2016-09-09 12:29:11
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 
