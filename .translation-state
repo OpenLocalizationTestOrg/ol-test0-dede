@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "aaf2f2f46760e98afc8aef8105473d1932dbef55",
-  "LastTranslatedCommit": "4ddcf36f8189be81ff75a5e2ab89eb7166574972",
+  "LastTranslatedCommit": "0a5cb5bb5f6b49b2c9b7c076c06e58af210bc8c8",
   "Items": {
     "20afd9f87a87ee31685eb2ee4f3abece7f27d1ea": {
       "FileHash": "20afd9f87a87ee31685eb2ee4f3abece7f27d1ea",
@@ -131,9 +131,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-10-09T07:28:57.9004362Z",
+      "HandbackException": {
+        "internal_error_code": "out_of_handoff_scope",
+        "internal_error_message": "The file with file hash 36ec3918de779b4b0f004309429f72f071337272 is not out of handoff scope.",
+        "internal_error_retriable": false,
+        "exception_message": "The file with file hash 36ec3918de779b4b0f004309429f72f071337272 is not out of handoff scope.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
