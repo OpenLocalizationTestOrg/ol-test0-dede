@@ -1,27 +1,37 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 2
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\4a066e60-9c9f-4238-a567-d31be1f8a179.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/9108888bc8dd83f0e9b793e8b2ab49342be8b2af/e2e/4a066e60-9c9f-4238-a567-d31be1f8a179.md) | HandedOffSuccess | [Details](#07d2820f998ed6b97744e3094912d70e92e38cd81)
+ [e2e\2b6ec526-c376-4a91-afa3-ee782c7d66ee.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/168d3bffa4d0f90cf88e9e1854397af940bae420/e2e/2b6ec526-c376-4a91-afa3-ee782c7d66ee.md) | HandedOffSuccess | [Details](#2888f681f5170923b7e000a76ac2cefe348905f51)
+ [e2e\363d31ec-2660-4391-912c-f7492954c869.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/168d3bffa4d0f90cf88e9e1854397af940bae420/e2e/363d31ec-2660-4391-912c-f7492954c869.md) | HandedOffSuccess | [Details](#2888f681f5170923b7e000a76ac2cefe348905f52)
 
 ## Item Details
-##### <a name='07d2820f998ed6b97744e3094912d70e92e38cd81'></a> Source: [e2e\4a066e60-9c9f-4238-a567-d31be1f8a179.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/9108888bc8dd83f0e9b793e8b2ab49342be8b2af/e2e/4a066e60-9c9f-4238-a567-d31be1f8a179.md)
+##### <a name='2888f681f5170923b7e000a76ac2cefe348905f51'></a> Source: [e2e\2b6ec526-c376-4a91-afa3-ee782c7d66ee.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/168d3bffa4d0f90cf88e9e1854397af940bae420/e2e/2b6ec526-c376-4a91-afa3-ee782c7d66ee.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [4a066e60-9c9f-4238-a567-d31be1f8a179.df1b08eeb98abb1bdea2c68622bef2fdf8082352.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/7149b2f0d643793aae74a793df0a1086397d4d8c/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/qimu/ht/4a066e60-9c9f-4238-a567-d31be1f8a179.df1b08eeb98abb1bdea2c68622bef2fdf8082352.de-de.xlf)
-* Handoff Datetime: 2016-10-10 09:39:51
+* Handoff File: [2b6ec526-c376-4a91-afa3-ee782c7d66ee.b0feb0967efeeb21a8d7ed9ebb0eaac31f75219c.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/035592942efac8c15359520af3564f2b43c76ab6/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/qimu/ht/2b6ec526-c376-4a91-afa3-ee782c7d66ee.b0feb0967efeeb21a8d7ed9ebb0eaac31f75219c.de-de.xlf)
+* Handoff Datetime: 2016-10-10 09:41:59
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [e2e\4a066e60-9c9f-4238-a567-d31be1f8a179.md](https://github.com/OpenLocalizationTestOrg/ol-test0-dede/blob/d05b30494f50ac14a14584f645776162ce6a38cd/e2e/4a066e60-9c9f-4238-a567-d31be1f8a179.md)
-* Current Handback File: [4a066e60-9c9f-4238-a567-d31be1f8a179.df1b08eeb98abb1bdea2c68622bef2fdf8082352.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/2810cd04e9d45db152e3de77fd272512f9d62c0b/ol-handback/OpenLocalizationTestOrg/ol-test0-dede/qimu/ht/4a066e60-9c9f-4238-a567-d31be1f8a179.df1b08eeb98abb1bdea2c68622bef2fdf8082352.de-de.xlf)
-* Current Handback Datetime: 2016-10-10 09:39:14
+* [Back to Top](#report-top)
+
+##### <a name='2888f681f5170923b7e000a76ac2cefe348905f52'></a> Source: [e2e\363d31ec-2660-4391-912c-f7492954c869.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/168d3bffa4d0f90cf88e9e1854397af940bae420/e2e/363d31ec-2660-4391-912c-f7492954c869.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [2b6ec526-c376-4a91-afa3-ee782c7d66ee.b0feb0967efeeb21a8d7ed9ebb0eaac31f75219c.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/035592942efac8c15359520af3564f2b43c76ab6/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/qimu/ht/2b6ec526-c376-4a91-afa3-ee782c7d66ee.b0feb0967efeeb21a8d7ed9ebb0eaac31f75219c.de-de.xlf)
+* Handoff Datetime: 2016-10-10 09:41:59
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 
