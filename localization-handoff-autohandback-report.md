@@ -2,8 +2,8 @@
 > This report show how many files are handback automatically in this handoff.
 
 ## Summary
-* **Auto Archive Count**: 1
-* **Auto Handback Count**: 1
+* **Auto Archive Count**: 0
+* **Auto Handback Count**: 0
 
 ## Auto Handback List
 > The following xliff are handback automatically since the same xliff has been handback before with the same translation quality.
@@ -13,7 +13,6 @@
 
 | Handoff Xliff | Referenced Xliff | 
 | --- | --- | 
-| [ol-handoff\OpenLocalizationTestOrg\ol-test0-dede\yufeih\d55b802f-3346-4fb7-904f-c4a5400d7bcd.035557fe3592c55133bd6b1a71f88bfede9ed4e3.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/b3bde3adf01af0e6bbb9c50cf88ba328af2b7b47/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/yufeih/d55b802f-3346-4fb7-904f-c4a5400d7bcd.035557fe3592c55133bd6b1a71f88bfede9ed4e3.de-de.xlf) | [ol-handback\OpenLocalizationTestOrg\ol-test0-dede\yufeih\ht\d55b802f-3346-4fb7-904f-c4a5400d7bcd.035557fe3592c55133bd6b1a71f88bfede9ed4e3.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/39a52774532b1e8b689c25f1a8abbe19d423a238/ol-handback/OpenLocalizationTestOrg/ol-test0-dede/yufeih/ht/d55b802f-3346-4fb7-904f-c4a5400d7bcd.035557fe3592c55133bd6b1a71f88bfede9ed4e3.de-de.xlf) | 
 
 ## Auto Archived List
 > The following xliff are archived automatically since the same xliff has been archived or it is already handback
@@ -23,5 +22,4 @@
 
 | Handoff Xliff | Archived Reason | 
 | --- | --- | 
-| [ol-handoff\OpenLocalizationTestOrg\ol-test0-dede\yufeih\d55b802f-3346-4fb7-904f-c4a5400d7bcd.035557fe3592c55133bd6b1a71f88bfede9ed4e3.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/b3bde3adf01af0e6bbb9c50cf88ba328af2b7b47/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/yufeih/d55b802f-3346-4fb7-904f-c4a5400d7bcd.035557fe3592c55133bd6b1a71f88bfede9ed4e3.de-de.xlf) | Handbacked | 
 
