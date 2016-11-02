@@ -66,6 +66,8 @@
 * Current Target File: [e2e\5e7aae90-ef65-489d-b29f-926879e950a5.md](https://github.com/OpenLocalizationTestOrg/ol-test0-dede/blob/7ed7c9d0df5015bd3f6756cd973d90b991c6a3fd/e2e/5e7aae90-ef65-489d-b29f-926879e950a5.md)
 * Current Handback File: [5e7aae90-ef65-489d-b29f-926879e950a5.34fabb83888b9183f2cde1b65119581289fcf2d0.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/5f2694f453c207b71a6335e0d44854e76c5d687c/ol-handback/OpenLocalizationTestOrg/ol-test0-dede/yufeih/ht/5e7aae90-ef65-489d-b29f-926879e950a5.34fabb83888b9183f2cde1b65119581289fcf2d0.de-de.xlf)
 * Current Handback Datetime: 2016-11-02 05:11:41
+* Bilingual File: [5e7aae90-ef65-489d-b29f-926879e950a5.34fabb83888b9183f2cde1b65119581289fcf2d0.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/5f2694f453c207b71a6335e0d44854e76c5d687c/ol-handback/OpenLocalizationTestOrg/ol-test0-dede/yufeih/ht/5e7aae90-ef65-489d-b29f-926879e950a5.34fabb83888b9183f2cde1b65119581289fcf2d0.de-de.xlf)
+* Bilingual Datetime: 2016-11-02 05:13:19
 * [Back to Top](#report-top)
 
 ##### <a name='927e3f30ed6964c10fc9c3ceead316edf2b0d0a42'></a> Source: [e2e\634a3189-31f2-46da-b9ac-ed0c612b9f9f.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/a3fa0c456a8988f7547ee98a3b82104c17837fce/e2e/634a3189-31f2-46da-b9ac-ed0c612b9f9f.md)
@@ -81,6 +83,8 @@
 * Current Target File: [e2e\634a3189-31f2-46da-b9ac-ed0c612b9f9f.md](https://github.com/OpenLocalizationTestOrg/ol-test0-dede/blob/7ed7c9d0df5015bd3f6756cd973d90b991c6a3fd/e2e/634a3189-31f2-46da-b9ac-ed0c612b9f9f.md)
 * Current Handback File: [634a3189-31f2-46da-b9ac-ed0c612b9f9f.a068cd2100044adeb885b1fd49ce798316825d30.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/5f2694f453c207b71a6335e0d44854e76c5d687c/ol-handback/OpenLocalizationTestOrg/ol-test0-dede/yufeih/ht/634a3189-31f2-46da-b9ac-ed0c612b9f9f.a068cd2100044adeb885b1fd49ce798316825d30.de-de.xlf)
 * Current Handback Datetime: 2016-11-02 05:11:41
+* Bilingual File: [634a3189-31f2-46da-b9ac-ed0c612b9f9f.a068cd2100044adeb885b1fd49ce798316825d30.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/5f2694f453c207b71a6335e0d44854e76c5d687c/ol-handback/OpenLocalizationTestOrg/ol-test0-dede/yufeih/ht/634a3189-31f2-46da-b9ac-ed0c612b9f9f.a068cd2100044adeb885b1fd49ce798316825d30.de-de.xlf)
+* Bilingual Datetime: 2016-11-02 05:13:19
 * [Back to Top](#report-top)
 
 ##### <a name='9c1dc7143fe5ddc6f8b1569bb82dd282e29fbd0c3'></a> Source: [e2e\8dd12a97-07e7-46a7-b15d-706ded272ba3.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/d0f47457b434afa4cb98178936d58f452d3f949a/e2e/8dd12a97-07e7-46a7-b15d-706ded272ba3.md)
