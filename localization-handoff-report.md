@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\a76e6cba-593d-4816-ae50-60ba263a5476.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/3dfc8ed587129a3c5c3f68905b2146ab2f9f341e/e2e/a76e6cba-593d-4816-ae50-60ba263a5476.md) | HandedOffSuccess | [Details](#60cfd396c6f67db4c61c83903015029d5f4340835)
+ [e2e\7394c74c-cae0-442c-9973-bea43e8715e3.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/cbf30504d77c60bb78e824ad3ad95a0f8ad5d99a/e2e/7394c74c-cae0-442c-9973-bea43e8715e3.md) | HandedOffSuccess | [Details](#9b71cabc872782373bcc6714810d1b73482a48204)
 
 ## Item Details
-##### <a name='60cfd396c6f67db4c61c83903015029d5f4340835'></a> Source: [e2e\a76e6cba-593d-4816-ae50-60ba263a5476.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/3dfc8ed587129a3c5c3f68905b2146ab2f9f341e/e2e/a76e6cba-593d-4816-ae50-60ba263a5476.md)
+##### <a name='9b71cabc872782373bcc6714810d1b73482a48204'></a> Source: [e2e\7394c74c-cae0-442c-9973-bea43e8715e3.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/cbf30504d77c60bb78e824ad3ad95a0f8ad5d99a/e2e/7394c74c-cae0-442c-9973-bea43e8715e3.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [a76e6cba-593d-4816-ae50-60ba263a5476.122c563cf74da4ac5e9e8723a49a6cbe539d49ba.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/d181d5e75d8323e845dc09d68c623b15f921002a/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/yufeih/ht/a76e6cba-593d-4816-ae50-60ba263a5476.122c563cf74da4ac5e9e8723a49a6cbe539d49ba.de-de.xlf)
-* Handoff Datetime: 2016-11-07 06:59:42
+* Handoff File: [7394c74c-cae0-442c-9973-bea43e8715e3.82b8558eea1bb472f771b86eaef7fc66eef111ca.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/477775fceee84f99cf14e39a70867c3d271c4023/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/yufeih/ht/7394c74c-cae0-442c-9973-bea43e8715e3.82b8558eea1bb472f771b86eaef7fc66eef111ca.de-de.xlf)
+* Handoff Datetime: 2016-11-07 07:02:06
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
