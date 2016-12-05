@@ -2,7 +2,7 @@
 > This report show how many files are handback automatically in this handoff.
 
 ## Summary
-* **Auto Archive Count**: 1
+* **Auto Archive Count**: 0
 * **Auto Handback Count**: 0
 
 ## Auto Handback List
@@ -22,5 +22,4 @@
 
 | Handoff Xliff | Archived Reason | 
 | --- | --- | 
-| [ol-handoff\OpenLocalizationTestOrg\ol-test0-dede\qimu\ht\16150b8d-9227-40a3-98c9-6524522ef9ee.ca5eafd7f7502cccde19ada7b6dec0e95528544a.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/31b06c5d2c67d0f15e55fc88c934628538e2c010/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/qimu/ht/16150b8d-9227-40a3-98c9-6524522ef9ee.ca5eafd7f7502cccde19ada7b6dec0e95528544a.de-de.xlf) | Archived when 16/12/05 11:20 | 
 
