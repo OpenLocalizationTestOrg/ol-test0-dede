@@ -1,5 +1,20 @@
 {
-  "ac5610e14e35343352c9459b3e335b10c5a31637": [
-    "e2e\\test-content-1.md"
+  "0788185f814998022c5d09440b60814158db7bc2": [
+    "e2e\\file_full_deleted_multi_path_1.md",
+    "e2e\\file_full_deleted_multi_path_2.md"
+  ],
+  "03390d61cf21e5d695e956792da26b2c127729f4": [
+    "e2e\\file_full_deleted_single_path.md"
+  ],
+  "757e4f9701373d9eec1baa4eeabdd4002dd24ff7": [
+    "e2e\\file_no_deleted_multi_path_1.md",
+    "e2e\\file_no_deleted_multi_path_2.md"
+  ],
+  "08f1e105ec0a7a15c7a2d01a2e3d2c4954c7e31e": [
+    "e2e\\file_no_deleted_single_path.md"
+  ],
+  "5870f49525006cd0d46b2f2318889886a189e85f": [
+    "e2e\\file_partial_deleted_multi_path_1.md",
+    "e2e\\file_partial_deleted_multi_path_2.md"
   ]
 }
