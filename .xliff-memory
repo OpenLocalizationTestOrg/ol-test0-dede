@@ -227,8 +227,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-dede\\xinjiang\\5870f49525006cd0d46b2f2318889886a189e85f.a74eb1b642fde8d1927b7d81a1938f28cc4f7ffa.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-dede\\xinjiang\\mt\\file_partial_deleted_multi_path_1.950eb2cafff7c1eccbf1f4ff641b1cbe66aecd0c.de-de.xlf",
+      "LocXliffCommit": "dd3d8c54ff61ec2e6cc84e63f389ecc1aebae51b"
     },
     "e2e\\file_full_deleted_single_path.md.3c4f63660a8c00c4fbd0ed75a2a2a09d3bbfa2ec.HT": {
       "SourceFilename": "e2e\\file_full_deleted_single_path.md",
@@ -257,8 +257,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-dede\\xinjiang\\757e4f9701373d9eec1baa4eeabdd4002dd24ff7.e6459bf6fa085cf3bb2375059c3bd1f0a03d98f2.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-dede\\xinjiang\\mt\\file_no_deleted_multi_path_1.2336e4b28de82563dc9ea89a1eb254ab730456de.de-de.xlf",
+      "LocXliffCommit": "dd3d8c54ff61ec2e6cc84e63f389ecc1aebae51b"
     },
     "e2e\\file_no_deleted_single_path.md.fdbf31ffd1bb5443cfa27f6cfcd090398b15196e.HT": {
       "SourceFilename": "e2e\\file_no_deleted_single_path.md",
@@ -267,8 +267,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-dede\\xinjiang\\08f1e105ec0a7a15c7a2d01a2e3d2c4954c7e31e.1269fc23f3b140f02074e7745b0f6e5ba441ec75.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-dede\\xinjiang\\mt\\file_no_deleted_single_path.84480e30a75eaa7877ca77d49d2059db6121edd7.de-de.xlf",
+      "LocXliffCommit": "dd3d8c54ff61ec2e6cc84e63f389ecc1aebae51b"
     },
     "e2e\\newfile.5dfa2e5f-0011-414e-bb31-e4363799c8d6.md.d1e16fa50bf61d553cf2a60e18205b7a93227095.HT": {
       "SourceFilename": "e2e\\newfile.5dfa2e5f-0011-414e-bb31-e4363799c8d6.md",
