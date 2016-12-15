@@ -194,8 +194,8 @@
       "SourceFilename": "e2e\\b.md",
       "XliffHash": "39e94e0bee95b3e4b8ce7fba21828b612770a277",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "IsArchived": true,
+      "ArchivedDateTime": "2016-12-15T04:01:42.8119547Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-dede\\xinjiang\\249514af732712afad0d389e93eaaf50e1074bf5.3132503f3f129d771f64dec43be56b34c6602223.xml",
       "LocXliff": null,
       "LocXliffCommit": null

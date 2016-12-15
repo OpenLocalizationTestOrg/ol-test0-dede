@@ -5,9 +5,9 @@
  -------- | ----- 
  Total Files | 3
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 1
+[ Handoff Success Files ](#handoff-success-list)| 0
 [ Archive Failed Files ](#archive-failed-list)| 0
-[ Archive Success Files ](#archive-success-list)| 0
+[ Archive Success Files ](#archive-success-list)| 1
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 1
@@ -16,13 +16,13 @@
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
 ## <a name='handoff-success-list'></a> Handoff Success File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [e2e\b.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/e7f11bb4c8de8815253c1dd43d65f0a8b5fd2329/e2e/b.md) | HandedOffSuccess | [Details](#249514af732712afad0d389e93eaaf50e1074bf52)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
 
 ## <a name='archive-success-list'></a> Archive Success File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [e2e\b.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/e7f11bb4c8de8815253c1dd43d65f0a8b5fd2329/e2e/b.md) | ArchivedSuccess | [Details](#249514af732712afad0d389e93eaaf50e1074bf52)
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
 
@@ -68,14 +68,14 @@
 * [Back to Top](#report-top)
 
 ##### <a name='249514af732712afad0d389e93eaaf50e1074bf52'></a> Source: [e2e\b.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/e7f11bb4c8de8815253c1dd43d65f0a8b5fd2329/e2e/b.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [b.63290e5768f688058c7b37413b0a5c26c308f864.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/c8aa58f15c00db54e1e6ff55f49844a392ce8353/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/xinjiang/ht/b.63290e5768f688058c7b37413b0a5c26c308f864.de-de.xlf)
 * Handoff Datetime: 2016-12-15 04:00:55
 * Handoff Reason: Include
 * Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [b.63290e5768f688058c7b37413b0a5c26c308f864.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/6f2c74eac282f6b45c48d1d962c8d964f6c85da3/ol-archive/OpenLocalizationTestOrg/ol-test0-dede/xinjiang/ht/b.63290e5768f688058c7b37413b0a5c26c308f864.de-de.xlf)
+* Archive Datetime: 2016-12-15 04:01:42
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Handback Name: 
