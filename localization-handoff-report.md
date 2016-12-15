@@ -6,15 +6,15 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\7dac8b8c-8614-42de-ac60-5cfc9461a9d8.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/c66b5f6e41a19560ff9dc87f52cf53473c953298/e2e/7dac8b8c-8614-42de-ac60-5cfc9461a9d8.md) | HandedOffSuccess | [Details](#9ba1afe4982021e923b790aac3e34340722213db1)
- [e2e\b4e5a6bd-6d0f-4c16-a86f-a3327fd27496.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/c66b5f6e41a19560ff9dc87f52cf53473c953298/e2e/b4e5a6bd-6d0f-4c16-a86f-a3327fd27496.md) | HandedOffSuccess | [Details](#0a2c6403fe2112aa0e60dada1ec268abf21c3fc92)
+ [e2e\41aaff58-ddb9-414a-b8cf-2f31be2a4444.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/f07cfac2a4ae5cdf520d82ae99841f9038183dd3/e2e/41aaff58-ddb9-414a-b8cf-2f31be2a4444.md) | HandedOffSuccess | [Details](#a20403ce1e928dab2a85f1021008aa953c532b991)
+ [e2e\c940135d-09da-4cc0-a206-a7627958afdc.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/f07cfac2a4ae5cdf520d82ae99841f9038183dd3/e2e/c940135d-09da-4cc0-a206-a7627958afdc.md) | HandedOffSuccess | [Details](#ef5667cae915e81bb425dfdbdd7e7dfd0be23b5f4)
 
 ## Item Details
-##### <a name='9ba1afe4982021e923b790aac3e34340722213db1'></a> Source: [e2e\7dac8b8c-8614-42de-ac60-5cfc9461a9d8.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/c66b5f6e41a19560ff9dc87f52cf53473c953298/e2e/7dac8b8c-8614-42de-ac60-5cfc9461a9d8.md)
+##### <a name='a20403ce1e928dab2a85f1021008aa953c532b991'></a> Source: [e2e\41aaff58-ddb9-414a-b8cf-2f31be2a4444.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/f07cfac2a4ae5cdf520d82ae99841f9038183dd3/e2e/41aaff58-ddb9-414a-b8cf-2f31be2a4444.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [7dac8b8c-8614-42de-ac60-5cfc9461a9d8.27fa032a72ce9d7b6928ba3482db76f49da2c749.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/7f28acdd07048217884e5c07cec31e666db84d34/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/xinjiang/ht/7dac8b8c-8614-42de-ac60-5cfc9461a9d8.27fa032a72ce9d7b6928ba3482db76f49da2c749.de-de.xlf)
-* Handoff Datetime: 2016-12-15 03:26:54
+* Handoff File: [41aaff58-ddb9-414a-b8cf-2f31be2a4444.3bf9dab789bd04806158774d446de5187b6493f0.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/8410067fbfcf7bff9c22250f5d0c1f8a2140c849/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/xinjiang/ht/41aaff58-ddb9-414a-b8cf-2f31be2a4444.3bf9dab789bd04806158774d446de5187b6493f0.de-de.xlf)
+* Handoff Datetime: 2016-12-15 03:28:17
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -24,11 +24,11 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='0a2c6403fe2112aa0e60dada1ec268abf21c3fc92'></a> Source: [e2e\b4e5a6bd-6d0f-4c16-a86f-a3327fd27496.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/c66b5f6e41a19560ff9dc87f52cf53473c953298/e2e/b4e5a6bd-6d0f-4c16-a86f-a3327fd27496.md)
+##### <a name='ef5667cae915e81bb425dfdbdd7e7dfd0be23b5f4'></a> Source: [e2e\c940135d-09da-4cc0-a206-a7627958afdc.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/f07cfac2a4ae5cdf520d82ae99841f9038183dd3/e2e/c940135d-09da-4cc0-a206-a7627958afdc.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [b4e5a6bd-6d0f-4c16-a86f-a3327fd27496.8fe04f6c9c313ca9e80c97600baa19cc0edb94cb.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/7f28acdd07048217884e5c07cec31e666db84d34/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/xinjiang/ht/b4e5a6bd-6d0f-4c16-a86f-a3327fd27496.8fe04f6c9c313ca9e80c97600baa19cc0edb94cb.de-de.xlf)
-* Handoff Datetime: 2016-12-15 03:26:54
+* Handoff File: [c940135d-09da-4cc0-a206-a7627958afdc.b6c9b9a300f43770526284697b35ee192e43f5f4.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/8410067fbfcf7bff9c22250f5d0c1f8a2140c849/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/xinjiang/ht/c940135d-09da-4cc0-a206-a7627958afdc.b6c9b9a300f43770526284697b35ee192e43f5f4.de-de.xlf)
+* Handoff Datetime: 2016-12-15 03:28:17
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
