@@ -1757,8 +1757,8 @@
       "IsArchived": true,
       "ArchivedDateTime": "2016-12-16T10:25:46.6257425Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-dede\\xinjiang\\51d983fd23839b360ddadd8f52ff09004555ba34.73ac4b41de93ddb2cce5fabe1b9ad2ee083ab3d2.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-dede\\xinjiang\\ht\\dba81da4-718b-47db-b348-6d79f5981a0e.dd717d0d9490e88512cf2deb14933a341892139c.de-de.xlf",
+      "LocXliffCommit": "85c408b37d9f20ec2d098d1d1099f909a7fccad2"
     },
     "e2e\\78d5fddc-39ab-41fc-bc49-1e7aa96d47c6.yml.22bd920a3f49cdb4abcf5bc6f8b467f274fd71ec.HT": {
       "SourceFilename": "e2e\\78d5fddc-39ab-41fc-bc49-1e7aa96d47c6.yml",
@@ -1767,8 +1767,8 @@
       "IsArchived": true,
       "ArchivedDateTime": "2016-12-16T10:25:46.6247419Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-dede\\xinjiang\\c10286aa3c07a33f72e15f11ed75912b732ed9b6.48542bbd312cf3e5a34a29935b37a6b1c34527fc.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-dede\\xinjiang\\ht\\78d5fddc-39ab-41fc-bc49-1e7aa96d47c6.0ba351f4d4810bc19b95beb43cfaa10d87e0a0ec.de-de.xlf",
+      "LocXliffCommit": "85c408b37d9f20ec2d098d1d1099f909a7fccad2"
     },
     "e2e\\41d4b2c8-33ad-49c4-864b-43968f1c2e3c.md.5801eacdaf9c6c8dacbefcecc32dae7ac1de2636.HT": {
       "SourceFilename": "e2e\\41d4b2c8-33ad-49c4-864b-43968f1c2e3c.md",
@@ -1777,8 +1777,8 @@
       "IsArchived": true,
       "ArchivedDateTime": "2016-12-16T10:25:46.6257425Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-dede\\xinjiang\\6aa0b24b64122868a215548be121c2852b7cb4f2.d74faf5e69f942f9a9e5eb62e1f807573c524f9d.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-dede\\xinjiang\\ht\\41d4b2c8-33ad-49c4-864b-43968f1c2e3c.4c64467d0162173b911f2ac918b27b32e6c93e15.de-de.xlf",
+      "LocXliffCommit": "85c408b37d9f20ec2d098d1d1099f909a7fccad2"
     }
   }
 }
