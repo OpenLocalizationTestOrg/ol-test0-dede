@@ -724,8 +724,8 @@
       "SourceFilename": "e2e\\a8d5dd27-84dc-47af-afd6-c9c11f3e1dd3.md",
       "XliffHash": "967a3c2b76f4eb158d04bd8939c178c73da86f4c",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "IsArchived": true,
+      "ArchivedDateTime": "2016-12-16T08:17:53.4984254Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-dede\\xinjiang\\f9986a9a4b2c2ad138a8bbdfe6a9cf72f78aa46c.c27aacb3e756e0adb1c1ae7cea1a810a16b79d40.xml",
       "LocXliff": null,
       "LocXliffCommit": null
