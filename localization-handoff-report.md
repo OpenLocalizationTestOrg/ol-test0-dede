@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\40f5a0c0-3537-4229-9cc0-14662feb46d8.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/d6e146f3be0193a0a61b3d1779bf3be10bcad06f/e2e/40f5a0c0-3537-4229-9cc0-14662feb46d8.md) | HandedOffSuccess | [Details](#3989d8e647d892a0ef15254dfd2e1c81ff12b45c2)
+ [e2e\40f5a0c0-3537-4229-9cc0-14662feb46d8.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/607129ad8a415562ec525b138f1d6ac1d6ef3fb3/e2e/40f5a0c0-3537-4229-9cc0-14662feb46d8.md) | HandedOffSuccess | [Details](#9d9e4f01c790655625c31c71ac503094f36fce4b2)
 
 ## Item Details
-##### <a name='3989d8e647d892a0ef15254dfd2e1c81ff12b45c2'></a> Source: [e2e\40f5a0c0-3537-4229-9cc0-14662feb46d8.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/d6e146f3be0193a0a61b3d1779bf3be10bcad06f/e2e/40f5a0c0-3537-4229-9cc0-14662feb46d8.md)
+##### <a name='9d9e4f01c790655625c31c71ac503094f36fce4b2'></a> Source: [e2e\40f5a0c0-3537-4229-9cc0-14662feb46d8.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/607129ad8a415562ec525b138f1d6ac1d6ef3fb3/e2e/40f5a0c0-3537-4229-9cc0-14662feb46d8.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [40f5a0c0-3537-4229-9cc0-14662feb46d8.91570ca411f521bd66a7a276118feddff5be94cb.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/ceccc38b38a36d706d0145a34171788bf0fe51ed/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/shujia/ht/40f5a0c0-3537-4229-9cc0-14662feb46d8.91570ca411f521bd66a7a276118feddff5be94cb.de-de.xlf)
-* Handoff Datetime: 2017-01-11 09:37:02
+* Handoff File: [40f5a0c0-3537-4229-9cc0-14662feb46d8.91570ca411f521bd66a7a276118feddff5be94cb.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/bce54c6df433b41054cf90a4fd8de163efb06ed7/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/shujia/ht/40f5a0c0-3537-4229-9cc0-14662feb46d8.91570ca411f521bd66a7a276118feddff5be94cb.de-de.xlf)
+* Handoff Datetime: 2017-01-11 09:37:51
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
