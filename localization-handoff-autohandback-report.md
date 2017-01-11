@@ -2,8 +2,8 @@
 > This report show how many files are handback automatically in this handoff.
 
 ## Summary
-* **Auto Archive Count**: 1
-* **Auto Handback Count**: 1
+* **Auto Archive Count**: 2
+* **Auto Handback Count**: 2
 
 ## Auto Handback List
 > The following xliff are handback automatically since the same xliff has been handback before with the same translation quality.
@@ -13,7 +13,8 @@
 
 | Handoff Xliff | Referenced Xliff | 
 | --- | --- | 
-| [ol-handoff\OpenLocalizationTestOrg\ol-test0-dede\shujia\ht\22c035f0-1cb9-45cb-a037-a3356af8d779.f9b999196b508e15922bc97fe4139db6703a4c41.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/d8836ff20aa5bf56f2a202aed48b622dff5e3e91/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/shujia/ht/22c035f0-1cb9-45cb-a037-a3356af8d779.f9b999196b508e15922bc97fe4139db6703a4c41.de-de.xlf) | [ol-handback\OpenLocalizationTestOrg\ol-test0-dede\shujia\ht\22c035f0-1cb9-45cb-a037-a3356af8d779.f9b999196b508e15922bc97fe4139db6703a4c41.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/05ec4dff79129653a24aeeceb96291cf8032a94f/ol-handback/OpenLocalizationTestOrg/ol-test0-dede/shujia/ht/22c035f0-1cb9-45cb-a037-a3356af8d779.f9b999196b508e15922bc97fe4139db6703a4c41.de-de.xlf) | 
+| [ol-handoff\OpenLocalizationTestOrg\ol-test0-dede\shujia\mt\22c035f0-1cb9-45cb-a037-a3356af8d779.f9b999196b508e15922bc97fe4139db6703a4c41.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/0e1888792afd1767455f544d0c136043f0b54959/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/shujia/mt/22c035f0-1cb9-45cb-a037-a3356af8d779.f9b999196b508e15922bc97fe4139db6703a4c41.de-de.xlf) | [ol-handback\OpenLocalizationTestOrg\ol-test0-dede\shujia\mt\22c035f0-1cb9-45cb-a037-a3356af8d779.f9b999196b508e15922bc97fe4139db6703a4c41.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/f0a3bec7c28f62c866aa6ea1b13cd9ceeb9a58d0/ol-handback/OpenLocalizationTestOrg/ol-test0-dede/shujia/mt/22c035f0-1cb9-45cb-a037-a3356af8d779.f9b999196b508e15922bc97fe4139db6703a4c41.de-de.xlf) | 
+| [ol-handoff\OpenLocalizationTestOrg\ol-test0-dede\shujia\mt\c8a1366c-f5db-426a-bfc3-d9df0d473064.f0e9a31c5d6a9541d8e287d4b8e62e0a02457a29.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/0e1888792afd1767455f544d0c136043f0b54959/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/shujia/mt/c8a1366c-f5db-426a-bfc3-d9df0d473064.f0e9a31c5d6a9541d8e287d4b8e62e0a02457a29.de-de.xlf) | [ol-handback\OpenLocalizationTestOrg\ol-test0-dede\shujia\mt\c8a1366c-f5db-426a-bfc3-d9df0d473064.f0e9a31c5d6a9541d8e287d4b8e62e0a02457a29.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/f0a3bec7c28f62c866aa6ea1b13cd9ceeb9a58d0/ol-handback/OpenLocalizationTestOrg/ol-test0-dede/shujia/mt/c8a1366c-f5db-426a-bfc3-d9df0d473064.f0e9a31c5d6a9541d8e287d4b8e62e0a02457a29.de-de.xlf) | 
 
 ## Auto Archived List
 > The following xliff are archived automatically since the same xliff has been archived or it is already handback
@@ -23,5 +24,6 @@
 
 | Handoff Xliff | Archived Reason | 
 | --- | --- | 
-| [ol-handoff\OpenLocalizationTestOrg\ol-test0-dede\shujia\ht\22c035f0-1cb9-45cb-a037-a3356af8d779.f9b999196b508e15922bc97fe4139db6703a4c41.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/d8836ff20aa5bf56f2a202aed48b622dff5e3e91/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/shujia/ht/22c035f0-1cb9-45cb-a037-a3356af8d779.f9b999196b508e15922bc97fe4139db6703a4c41.de-de.xlf) | Handbacked | 
+| [ol-handoff\OpenLocalizationTestOrg\ol-test0-dede\shujia\mt\22c035f0-1cb9-45cb-a037-a3356af8d779.f9b999196b508e15922bc97fe4139db6703a4c41.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/0e1888792afd1767455f544d0c136043f0b54959/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/shujia/mt/22c035f0-1cb9-45cb-a037-a3356af8d779.f9b999196b508e15922bc97fe4139db6703a4c41.de-de.xlf) | Handbacked | 
+| [ol-handoff\OpenLocalizationTestOrg\ol-test0-dede\shujia\mt\c8a1366c-f5db-426a-bfc3-d9df0d473064.f0e9a31c5d6a9541d8e287d4b8e62e0a02457a29.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/0e1888792afd1767455f544d0c136043f0b54959/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/shujia/mt/c8a1366c-f5db-426a-bfc3-d9df0d473064.f0e9a31c5d6a9541d8e287d4b8e62e0a02457a29.de-de.xlf) | Handbacked | 
 
