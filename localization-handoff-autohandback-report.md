@@ -13,7 +13,7 @@
 
 | Handoff Xliff | Referenced Xliff | 
 | --- | --- | 
-| [ol-handoff\OpenLocalizationTestOrg\ol-test0-dede\shujia\ht\332823b7-1dea-41b0-9582-f288fc2cfbd8.bbda47a81369385bca750f285f4afb8dcc21f154.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/074db39fd1009cafb81168cd7e9e52b1b4dfff44/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/shujia/ht/332823b7-1dea-41b0-9582-f288fc2cfbd8.bbda47a81369385bca750f285f4afb8dcc21f154.de-de.xlf) | [ol-handback\OpenLocalizationTestOrg\ol-test0-dede\shujia\ht\332823b7-1dea-41b0-9582-f288fc2cfbd8.bbda47a81369385bca750f285f4afb8dcc21f154.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/5ab1a2a5a3f8c7a62914d15788d4b589b6f0e4b1/ol-handback/OpenLocalizationTestOrg/ol-test0-dede/shujia/ht/332823b7-1dea-41b0-9582-f288fc2cfbd8.bbda47a81369385bca750f285f4afb8dcc21f154.de-de.xlf) | 
+| [ol-handoff\OpenLocalizationTestOrg\ol-test0-dede\shujia\332823b7-1dea-41b0-9582-f288fc2cfbd8.bbda47a81369385bca750f285f4afb8dcc21f154.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/7073a3d2b20419a0ea82a2180015110d54f13c8a/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/shujia/332823b7-1dea-41b0-9582-f288fc2cfbd8.bbda47a81369385bca750f285f4afb8dcc21f154.de-de.xlf) | [ol-handback\OpenLocalizationTestOrg\ol-test0-dede\shujia\ht\332823b7-1dea-41b0-9582-f288fc2cfbd8.bbda47a81369385bca750f285f4afb8dcc21f154.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/fa9ae36ee2d50ff1aa10304e696651ee95988636/ol-handback/OpenLocalizationTestOrg/ol-test0-dede/shujia/ht/332823b7-1dea-41b0-9582-f288fc2cfbd8.bbda47a81369385bca750f285f4afb8dcc21f154.de-de.xlf) | 
 
 ## Auto Archived List
 > The following xliff are archived automatically since the same xliff has been archived or it is already handback
@@ -23,5 +23,5 @@
 
 | Handoff Xliff | Archived Reason | 
 | --- | --- | 
-| [ol-handoff\OpenLocalizationTestOrg\ol-test0-dede\shujia\ht\332823b7-1dea-41b0-9582-f288fc2cfbd8.bbda47a81369385bca750f285f4afb8dcc21f154.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/074db39fd1009cafb81168cd7e9e52b1b4dfff44/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/shujia/ht/332823b7-1dea-41b0-9582-f288fc2cfbd8.bbda47a81369385bca750f285f4afb8dcc21f154.de-de.xlf) | Handbacked | 
+| [ol-handoff\OpenLocalizationTestOrg\ol-test0-dede\shujia\332823b7-1dea-41b0-9582-f288fc2cfbd8.bbda47a81369385bca750f285f4afb8dcc21f154.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/7073a3d2b20419a0ea82a2180015110d54f13c8a/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/shujia/332823b7-1dea-41b0-9582-f288fc2cfbd8.bbda47a81369385bca750f285f4afb8dcc21f154.de-de.xlf) | Handbacked | 
 
