@@ -8,9 +8,9 @@
 [ Handoff Success Files ](#handoff-success-list)| 0
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
-[ Handback Failed Files ](#handback-failed-list)| 0
+[ Handback Failed Files ](#handback-failed-list)| 1
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
-[ In Sync Handback Files ](#insync-handback-success-list)| 6
+[ In Sync Handback Files ](#insync-handback-success-list)| 5
 [ Ignored Files ](#ignored-list)| 1
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -22,6 +22,9 @@
 ## <a name='archive-success-list'></a> Archive Success File List
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [e2e\e4572285-04fa-4ca0-a6b2-13dd1448b80e.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/ff5bfb68e333417cbd277c7102190f0870d66649/e2e/e4572285-04fa-4ca0-a6b2-13dd1448b80e.md) | HandedBackFailed | [Details](#790fc38ab22af08653f6ac168b5bd753b4f5a4e76)
 
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
 
@@ -33,7 +36,6 @@
  [e2e\a20a3827-cda5-4b15-b9a2-c71f7419edc3.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/ff5bfb68e333417cbd277c7102190f0870d66649/e2e/a20a3827-cda5-4b15-b9a2-c71f7419edc3.md) | InSyncHandedBackSuccess | [Details](#eaee66e99c8bb041020cc058fb172076d67c43183)
  [e2e\bb9981e0-f21e-43d8-a8f2-b730c8ffb95f.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/e6f5d1004965b98b7ecc71db30a9b743cc2e40f1/e2e/bb9981e0-f21e-43d8-a8f2-b730c8ffb95f.md) | InSyncHandedBackSuccess | [Details](#bf0eb881626dded5fc1f4f3bc8b33e0d1bd8292a4)
  [e2e\cbea7538-5dfa-42de-bae8-bc405818f8b7.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/b15c19b21d77f9e52f7d46941b9a9c8cbaaa7098/e2e/cbea7538-5dfa-42de-bae8-bc405818f8b7.md) | InSyncHandedBackSuccess | [Details](#13b044f635c2775e495d54cc9d7f53eebca1db295)
- [e2e\e4572285-04fa-4ca0-a6b2-13dd1448b80e.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/ff5bfb68e333417cbd277c7102190f0870d66649/e2e/e4572285-04fa-4ca0-a6b2-13dd1448b80e.md) | InSyncHandedBackSuccess | [Details](#790fc38ab22af08653f6ac168b5bd753b4f5a4e76)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -126,7 +128,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='790fc38ab22af08653f6ac168b5bd753b4f5a4e76'></a> Source: [e2e\e4572285-04fa-4ca0-a6b2-13dd1448b80e.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/ff5bfb68e333417cbd277c7102190f0870d66649/e2e/e4572285-04fa-4ca0-a6b2-13dd1448b80e.md)
-* Status: InSyncHandedBackSuccess
+* Status: HandedBackFailed
 * Target File: [e2e\e4572285-04fa-4ca0-a6b2-13dd1448b80e.md](https://github.com/OpenLocalizationTestOrg/ol-test0-dede/blob/ee671c1efb5fd6ef731a83602407b2e10af74b94/e2e/e4572285-04fa-4ca0-a6b2-13dd1448b80e.md)
 * Handoff File: [e4572285-04fa-4ca0-a6b2-13dd1448b80e.f89e9636458fbdf6dd5233fd647f28b2baf1e58b.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/d0210fbb62f591f039d83330bd127bfc4be74aa8/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/shujia/ht/e4572285-04fa-4ca0-a6b2-13dd1448b80e.f89e9636458fbdf6dd5233fd647f28b2baf1e58b.de-de.xlf)
 * Handoff Datetime: 2017-02-09 08:44:57
@@ -135,11 +137,18 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [e4572285-04fa-4ca0-a6b2-13dd1448b80e.f89e9636458fbdf6dd5233fd647f28b2baf1e58b.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/094c87eb499685cc8c4cabeefba0d0bc8514cf24/ol-handback/OpenLocalizationTestOrg/ol-test0-dede/shujia/ht/e4572285-04fa-4ca0-a6b2-13dd1448b80e.f89e9636458fbdf6dd5233fd647f28b2baf1e58b.de-de.xlf)
-* Handback Datetime: 2017-02-09 08:46:12
+* Handback Datetime: 2017-02-09 08:47:28
 * Handback Name: 
+* Handback Error: [handback_file_rejected](#790fc38ab22af08653f6ac168b5bd753b4f5a4e76handback_file_rejected)
 * [Back to Top](#report-top)
 
 
 ## Error Details
+##### <a name='790fc38ab22af08653f6ac168b5bd753b4f5a4e76handback_file_rejected'></a> Source: [e2e\e4572285-04fa-4ca0-a6b2-13dd1448b80e.md](#790fc38ab22af08653f6ac168b5bd753b4f5a4e76)
+* Error Code: handback_file_rejected
+* Error Message: Targeting source file commit cf38c2907985266cc4a9bea9742c48376cf68e82 is lower than latest handed back source file commit ff5bfb68e333417cbd277c7102190f0870d66649
+* Retriable: False
+* Error Details: {"internal_error_code":"handback_file_rejected","internal_error_message":"Targeting source file commit cf38c2907985266cc4a9bea9742c48376cf68e82 is lower than latest handed back source file commit ff5bfb68e333417cbd277c7102190f0870d66649","internal_error_retriable":false,"exception_message":"Targeting source file commit cf38c2907985266cc4a9bea9742c48376cf68e82 is lower than latest handed back source file commit ff5bfb68e333417cbd277c7102190f0870d66649","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
+
 
 Generated by OpenLocalization.
