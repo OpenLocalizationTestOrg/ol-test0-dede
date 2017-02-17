@@ -1,19 +1,20 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 2
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\9a7a6798-9de5-44f6-8d0d-a1cb53e27d8a.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/d6543d96e952ad79195091e43c8cca605ce4dabb/e2e/9a7a6798-9de5-44f6-8d0d-a1cb53e27d8a.md) | HandedOffSuccess | [Details](#01e2c02b6b40e4780ec2e2919fd90a6507e507af7)
+ [e2e\a.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/769d532d8485574c5025c086d82bfc29326a3c70/e2e/a.md) | HandedOffSuccess | [Details](#d7d2c8694c067cd121efda6e85c7e4ea9e9b685b1)
+ [e2e\b.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/769d532d8485574c5025c086d82bfc29326a3c70/e2e/b.md) | HandedOffSuccess | [Details](#d7d2c8694c067cd121efda6e85c7e4ea9e9b685b2)
 
 ## Item Details
-##### <a name='01e2c02b6b40e4780ec2e2919fd90a6507e507af7'></a> Source: [e2e\9a7a6798-9de5-44f6-8d0d-a1cb53e27d8a.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/d6543d96e952ad79195091e43c8cca605ce4dabb/e2e/9a7a6798-9de5-44f6-8d0d-a1cb53e27d8a.md)
+##### <a name='d7d2c8694c067cd121efda6e85c7e4ea9e9b685b1'></a> Source: [e2e\a.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/769d532d8485574c5025c086d82bfc29326a3c70/e2e/a.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [9a7a6798-9de5-44f6-8d0d-a1cb53e27d8a.3717ee4f67cddea0d2177b92b012b941ebffc111.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/a9980af5edb7c5e0c0aa4d60c2b2cf04bc4698b8/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/xinjiang/ht/9a7a6798-9de5-44f6-8d0d-a1cb53e27d8a.3717ee4f67cddea0d2177b92b012b941ebffc111.de-de.xlf)
-* Handoff Datetime: 2017-02-17 07:08:19
+* Handoff File: [a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/c05a9f37a6b58f96d437c1e3e86c9c104907301d/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/xinjiang/ht/a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf)
+* Handoff Datetime: 2017-02-17 07:10:54
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -21,6 +22,26 @@
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Handback Name: 
+* Current Target File: [e2e\a.md](https://github.com/OpenLocalizationTestOrg/ol-test0-dede/blob/b7cc398cd2d2293ef7adc1e0fea4160f00719ded/e2e/a.md)
+* Current Handback File: [a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/52b720b2c8828ed2e43444d614522cd99d585891/ol-handback/OpenLocalizationTestOrg/ol-test0-dede/xinjiang/ht/a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf)
+* Current Handback Datetime: 2016-12-16 08:34:51
+* [Back to Top](#report-top)
+
+##### <a name='d7d2c8694c067cd121efda6e85c7e4ea9e9b685b2'></a> Source: [e2e\b.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/769d532d8485574c5025c086d82bfc29326a3c70/e2e/b.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/c05a9f37a6b58f96d437c1e3e86c9c104907301d/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/xinjiang/ht/a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf)
+* Handoff Datetime: 2017-02-17 07:10:54
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* Current Target File: [e2e\a.md](https://github.com/OpenLocalizationTestOrg/ol-test0-dede/blob/99e37e8043e0165debd5b70970114ac80e7cb3f8/e2e/a.md)
+* Current Handback File: [a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/0222c5bf985011cee6df868b1e0c1567cbd816d7/ol-handback/OpenLocalizationTestOrg/ol-test0-dede/xinjiang/ht/a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf)
+* Current Handback Datetime: 2016-12-16 08:30:54
 * [Back to Top](#report-top)
 
 
