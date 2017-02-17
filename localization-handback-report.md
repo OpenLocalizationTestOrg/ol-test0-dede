@@ -1,25 +1,40 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 1
+ Total Files | 2
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\3bc5a1b9-2805-4702-b246-b8d6aaa42987.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/87b9fbe8b92fcd18d08b703346cfa697a250d65a/e2e/3bc5a1b9-2805-4702-b246-b8d6aaa42987.md) | InSyncHandedBackSuccess | [Details](#5851c299a2bf86f169566d6b611c81f8368ff10a3)
+ [e2e\a.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/769d532d8485574c5025c086d82bfc29326a3c70/e2e/a.md) | InSyncHandedBackSuccess | [Details](#d7d2c8694c067cd121efda6e85c7e4ea9e9b685b1)
+ [e2e\b.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/769d532d8485574c5025c086d82bfc29326a3c70/e2e/b.md) | InSyncHandedBackSuccess | [Details](#d7d2c8694c067cd121efda6e85c7e4ea9e9b685b2)
 
 ## Item Details
-##### <a name='5851c299a2bf86f169566d6b611c81f8368ff10a3'></a> Source: [e2e\3bc5a1b9-2805-4702-b246-b8d6aaa42987.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/87b9fbe8b92fcd18d08b703346cfa697a250d65a/e2e/3bc5a1b9-2805-4702-b246-b8d6aaa42987.md)
+##### <a name='d7d2c8694c067cd121efda6e85c7e4ea9e9b685b1'></a> Source: [e2e\a.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/769d532d8485574c5025c086d82bfc29326a3c70/e2e/a.md)
 * Status: InSyncHandedBackSuccess
-* Target File: [e2e\3bc5a1b9-2805-4702-b246-b8d6aaa42987.md](https://github.com/OpenLocalizationTestOrg/ol-test0-dede/blob/34cb7eeaabcadc86e180dcc1820db7188318e5a1/e2e/3bc5a1b9-2805-4702-b246-b8d6aaa42987.md)
-* Handoff File: [3bc5a1b9-2805-4702-b246-b8d6aaa42987.df7012f577798ec73f8c385b1a62104d1878da67.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/4d5ca937eff9186a804e3a444d2178c7c69023ec/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/xinjiang/ht/3bc5a1b9-2805-4702-b246-b8d6aaa42987.df7012f577798ec73f8c385b1a62104d1878da67.de-de.xlf)
-* Handoff Datetime: 2017-02-17 07:06:11
+* Target File: [e2e\a.md](https://github.com/OpenLocalizationTestOrg/ol-test0-dede/blob/b766b000c15b91668a8f121ffbdbfac8844fcc62/e2e/a.md)
+* Handoff File: [a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/c05a9f37a6b58f96d437c1e3e86c9c104907301d/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/xinjiang/ht/a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf)
+* Handoff Datetime: 2017-02-17 07:10:54
 * Handoff Reason: Include
 * Handoff Name: 
-* Archive File: [3bc5a1b9-2805-4702-b246-b8d6aaa42987.df7012f577798ec73f8c385b1a62104d1878da67.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/3ae7f9432b69c1025b7273d061418041bf56dcc0/ol-archive/OpenLocalizationTestOrg/ol-test0-dede/xinjiang/ht/3bc5a1b9-2805-4702-b246-b8d6aaa42987.df7012f577798ec73f8c385b1a62104d1878da67.de-de.xlf)
-* Archive Datetime: 2017-02-17 07:06:12
-* Handback File: [3bc5a1b9-2805-4702-b246-b8d6aaa42987.df7012f577798ec73f8c385b1a62104d1878da67.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/244eca0c34cd8c2cdd620d32b367dfeeacbf95bb/ol-handback/OpenLocalizationTestOrg/ol-test0-dede/xinjiang/ht/3bc5a1b9-2805-4702-b246-b8d6aaa42987.df7012f577798ec73f8c385b1a62104d1878da67.de-de.xlf)
-* Handback Datetime: 2017-02-17 07:07:14
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: [a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/784470c2cb6aac49912a63c2a6d9fad82c90c434/ol-handback/OpenLocalizationTestOrg/ol-test0-dede/xinjiang/ht/a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf)
+* Handback Datetime: 2017-02-17 07:12:12
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='d7d2c8694c067cd121efda6e85c7e4ea9e9b685b2'></a> Source: [e2e\b.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/769d532d8485574c5025c086d82bfc29326a3c70/e2e/b.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [e2e\a.md](https://github.com/OpenLocalizationTestOrg/ol-test0-dede/blob/b766b000c15b91668a8f121ffbdbfac8844fcc62/e2e/a.md)
+* Handoff File: [a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/c05a9f37a6b58f96d437c1e3e86c9c104907301d/ol-handoff/OpenLocalizationTestOrg/ol-test0-dede/xinjiang/ht/a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf)
+* Handoff Datetime: 2017-02-17 07:10:54
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: [a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/784470c2cb6aac49912a63c2a6d9fad82c90c434/ol-handback/OpenLocalizationTestOrg/ol-test0-dede/xinjiang/ht/a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf)
+* Handback Datetime: 2017-02-17 07:12:12
 * Handback Name: 
 * [Back to Top](#report-top)
 
